@@ -12,6 +12,8 @@ const nextConfig = {
       "photohouseapi.photohousemagazine.com",
       "api.arshopsbd.com",
       "facebook.com",
+      "8.219.7.121",
+      "abheen-frontend-home.vercel.app",
     ],
   },
 };

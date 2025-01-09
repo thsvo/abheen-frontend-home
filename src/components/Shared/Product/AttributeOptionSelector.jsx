@@ -73,7 +73,7 @@ const AttributeOptionSelector = ({
                     ) : attributeName.toLowerCase() === "color" ? (
                       <span
                         style={{
-                          backgroundColor: option.label || "",
+                          backgroundColor: option.label || "transparentssss",
                           display: "block",
                           width: "100%",
                           height: "100%",
