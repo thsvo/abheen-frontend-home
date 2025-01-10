@@ -14,6 +14,7 @@ const nextConfig = {
       "facebook.com",
       "8.219.7.121",
       "abheen-frontend-home.vercel.app",
+      "cwp.codeopx.com",
     ],
   },
 };
